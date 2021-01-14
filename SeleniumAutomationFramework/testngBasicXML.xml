@@ -1,0 +1,8 @@
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="tests.TC01_GoogleSearchPage_UsingMainMethod"/>
+      <class name="tests.TC02_GoogleSearchPage_UsingTestNGAnnotations"/>
+    </classes>
+  </test>
+</suite>

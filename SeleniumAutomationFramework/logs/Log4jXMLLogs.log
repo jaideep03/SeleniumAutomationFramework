@@ -1,0 +1,14 @@
+[INFO ] 2021-01-11 15:44:47.649 [main] TC01_ApacheLog4jDemo - Logger Info message
+[ERROR] 2021-01-11 15:44:47.658 [main] TC01_ApacheLog4jDemo - Logger error message
+[WARN ] 2021-01-11 15:44:47.659 [main] TC01_ApacheLog4jDemo - Logger warn message
+[FATAL] 2021-01-11 15:44:47.659 [main] TC01_ApacheLog4jDemo - Logger fatal message
+[INFO ] 2021-01-11 15:46:11.259 [main] TC01_ApacheLog4jDemo - Logger Info message
+[ERROR] 2021-01-11 15:46:11.260 [main] TC01_ApacheLog4jDemo - Logger error message
+[WARN ] 2021-01-11 15:46:11.261 [main] TC01_ApacheLog4jDemo - Logger warn message
+[FATAL] 2021-01-11 15:46:11.261 [main] TC01_ApacheLog4jDemo - Logger fatal message
+[INFO ] 2021-01-11 18:47:11.539 [main] TC01_ApacheLog4jDemo - Browser Started
+[INFO ] 2021-01-11 18:49:50.133 [main] TC01_ApacheLog4jDemo - Browser Started
+[INFO ] 2021-01-11 19:55:17.980 [main] ApacheLog4j - Logger Info message
+[ERROR] 2021-01-11 19:55:17.981 [main] ApacheLog4j - Logger error message
+[WARN ] 2021-01-11 19:55:17.982 [main] ApacheLog4j - Logger warn message
+[FATAL] 2021-01-11 19:55:17.983 [main] ApacheLog4j - Logger fatal message
